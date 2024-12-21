@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pratyush27
+- 👋 Hi, I’m @pratyush
 - 👀 I’m interested in Swift and SwiftUi
 
 <!---
